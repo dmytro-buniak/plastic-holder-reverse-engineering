@@ -10,8 +10,12 @@
 ![Status](https://img.shields.io/badge/status-in%20use-2E8B57?style=for-the-badge)
 
 <br>
+<img width="983" height="1198" alt="image" src="https://github.com/user-attachments/assets/f6c3f3dc-ec58-42a0-add7-b7ea80f1729a" />
+<img width="982" height="1221" alt="image" src="https://github.com/user-attachments/assets/490acab1-8756-413d-ba73-d409133482a7" />
 
-<img src="docs/original-vs-print.jpg" alt="Original part next to the 3D-printed replacement" width="80%">
+
+
+
 
 </div>
 
