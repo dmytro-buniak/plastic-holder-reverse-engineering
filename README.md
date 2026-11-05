@@ -10,8 +10,8 @@
 ![Status](https://img.shields.io/badge/status-in%20use-2E8B57?style=for-the-badge)
 
 <br>
-<img width="80%" height="2061" alt="original-vs-print" src="https://github.com/user-attachments/assets/254eebcd-1306-41c0-aa87-14d520a562c2" />
-<img width="80%" height="2235" alt="side-view-ribs" src="https://github.com/user-attachments/assets/7f834946-2028-4365-86cb-b763d271a803" />
+<img width="80%" height="75%" alt="original-vs-print" src="https://github.com/user-attachments/assets/254eebcd-1306-41c0-aa87-14d520a562c2" />
+<img width="80%" height="75%" alt="side-view-ribs" src="https://github.com/user-attachments/assets/7f834946-2028-4365-86cb-b763d271a803" />
 
 
 
